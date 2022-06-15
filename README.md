@@ -22,3 +22,6 @@ are caused by two trailing spaces at the end of a line.
     1. Four spaces for sub list
     2. Four spaces for sub list
 4. Philosophers carpentry
+
+![University of Leeds Logo](./unileedslogo.png)  
+University of Leeds logo, copyright University of Leeds 2022.
